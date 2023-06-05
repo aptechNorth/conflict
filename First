@@ -1,0 +1,9 @@
+he <<<<<<< HEAD, =======, and >>>>>>> feature markers indicate the conflicting sections.
+
+Bob reviews the conflicting sections and decides how to resolve the conflict. He can manually edit the file to combine both changes or choose one version over the other, depending on the desired outcome. For example:
+
+javascript
+Copy code
+// script.js
+
+function foo(
